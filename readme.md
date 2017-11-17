@@ -4,7 +4,7 @@
 
 ### By _Adam Calhoun_
 
-https://tuesdayhat.github.io/landing_page.html
+https://tuesdayhat.github.io/landing_page/
 
 ## Description
 
