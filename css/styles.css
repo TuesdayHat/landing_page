@@ -14,8 +14,8 @@ a {
 }
 
 .art {
-  max-width: 30%;
-  max-height: 30%
+  max-width: 80%;
+  max-height: 80%
   border: 1px solid grey;
   padding: 1px;
 }
@@ -37,7 +37,7 @@ a {
 }
 
 .sidebar .art {
-  max-width: 150px;
+  max-width: 110px;
   max-height: 150px;
   margin-bottom: 25px;
 }
@@ -49,10 +49,32 @@ a {
 
 .skills {
   border-right: 1px solid lightgreen;
+  padding-right: 5px;
+}
+
+.projects {
+  border-left: 1px solid lightgreen;
+}
+
+li {
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+li p {
+  font-weight: lighter;
 }
 
 .classy {
   font-family: serif;
   font-weight: bold;
   text-decoration: underline;
+}
+
+.floatLeft {
+  float: left;
+}
+
+.floatRight {
+  float: right;
 }
