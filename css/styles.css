@@ -2,3 +2,8 @@
   max-width: 20%;
   max-height: 20%
 }
+
+.sidebar{
+  border-right: 1px solid lightblue;
+  float:left;
+}
