@@ -1,4 +1,4 @@
-body{
+body {
   background-color: #000000;
   color: #ffffff;
   padding: 20px;
@@ -14,7 +14,7 @@ a {
   max-height: 30%
 }
 
-.sidebar{
+.sidebar {
   border-right: 1px solid lightgreen;
   border-bottom: 1px solid lightgreen;
   float:left;
@@ -24,13 +24,13 @@ a {
   max-width: 10%;
 }
 
-.sidebar .art{
+.sidebar .art {
   max-width: 150px;
   max-height: 150px;
   margin-bottom: 25px;
 }
 
-.container{
+.container {
   max-width: 100%;
   margin-left: 50px;
 }
