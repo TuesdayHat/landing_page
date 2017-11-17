@@ -9,9 +9,19 @@ a {
   text-decoration: underline;
 }
 
+.header {
+  margin-bottom: 50px;
+}
+
 .art {
   max-width: 30%;
   max-height: 30%
+}
+
+#adamHat {
+  float: right;
+  width: 300px;
+  height: 300px;
 }
 
 .sidebar {
@@ -33,4 +43,8 @@ a {
 .container {
   max-width: 100%;
   margin-left: 50px;
+}
+
+.skills {
+  border-right: 1px solid lightgreen;
 }
